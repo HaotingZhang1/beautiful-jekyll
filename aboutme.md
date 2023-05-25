@@ -9,5 +9,5 @@ Through my study, I have developed interest in approaching healthcare challenges
 
 Outside of research, I am passionate about motorsports. I follow Formula One races, and I enjoy doing some indoor karting in a casual manner from time to time.
 
-I am also owned by a ginger cat (yes, you read it right). Here is a picture of my cat:
+I am also owned by a ginger cat (yes, you read it right). Here is a picture of my boss:
 <img src="/assets/img/biu.png" alt="A picture of my cat chilling in the closet." style="width: 75%; height: auto">
